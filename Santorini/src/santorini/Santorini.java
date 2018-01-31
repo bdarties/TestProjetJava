@@ -16,6 +16,9 @@ public class Santorini {
      */
     public static void main(String[] args) {
         System.out.println("ceci est un premier test de collaboration avec GIT ");
+      
+        System.out.println("ajout d'une seconde ligne avec GIT ");
+      
     }
     
 }
